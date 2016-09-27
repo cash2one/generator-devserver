@@ -1,0 +1,13 @@
+{
+  "name": "generator-devserver",
+  "version": "1.0.3",
+  "description": "用于生成一个开发服务器，该开发服务器还具有本地mock数据以及代理请求等功能",
+  "author": "",
+  "files": [
+    "app"
+  ],
+  "keywords": ["yeoman-generator"],
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  }
+}
