@@ -1,0 +1,2 @@
+# generator-devserver
+用于生成一个开发服务器，该开发服务器还具有本地mock数据以及代理请求等功能
